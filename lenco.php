@@ -1,11 +1,4 @@
 <?php
-/*
-this plugin was developed by Simnko jewelry fully iced from https://simnkohost.net
-email: simnkoman@gmail.com
-phone: 0973215564
-for donations you can send ka sumfing on 0973215564
-
-*/
 
 if (!defined("WHMCS")) {
     die("This file cannot be accessed directly.");
