@@ -1,6 +1,5 @@
 <?php
-//this was developed by simnko jewelry fully iced from https://simnkohost.net
-//incase you have issues you can contact admin on 0973215564
+
 require_once "../../../init.php";
 require_once "../../../includes/gatewayfunctions.php";
 require_once "../../../includes/invoicefunctions.php";
